@@ -49,7 +49,7 @@
 import { defineProps } from "vue";
 import { TodoInterface } from "..//types";
 
-const props = defineProps<{
+defineProps<{
   todo: TodoInterface;
 }>();
 
