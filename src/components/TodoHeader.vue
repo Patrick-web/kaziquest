@@ -6,7 +6,7 @@
         ../assets/images/bg-desktop-dark.jpg 1440w,
         ../assets/images/BG-MOBILE-DARK.jpg   375w
       "
-      src="../src/assets/images/bg-desktop-dark.jpg"
+      src="../assets/images/bg-desktop-dark.jpg"
       alt="backround image"
     />
     <img
