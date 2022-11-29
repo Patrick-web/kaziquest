@@ -18,7 +18,7 @@
       >
         <img
           v-if="todo.isComplete"
-          src="../assets/icons/ICON-CHECK.SVG"
+          src="../assets/icons/ICON-CHECK.svg"
           alt="check icon"
         />
       </button>
@@ -38,7 +38,7 @@
     >
       <img
         class="w-full"
-        src="../assets/icons/ICON-CROSS.SVG"
+        src="../assets/icons/ICON-CROSS.svg"
         alt="cross icon"
       />
     </button>

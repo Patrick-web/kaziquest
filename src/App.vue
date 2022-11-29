@@ -93,12 +93,12 @@ onMounted(() => {
           <button @click="toggleDarkMode" aria-label="toggle dark mode" id="darkToggle">
             <img
               class="dark:hidden"
-              src="./assets/icons/ICON-MOON.SVG"
+              src="./assets/icons/ICON-MOON.svg"
               alt="moon icon"
             />
             <img
               class="hidden dark:block"
-              src="./assets/icons/ICON-SUN.SVG"
+              src="./assets/icons/ICON-SUN.svg"
               alt="sun icon"
             />
           </button>
