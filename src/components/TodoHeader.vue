@@ -13,7 +13,7 @@
       class="dark:hidden w-full h-[250px] lg:h-auto"
       srcset="
         ../assets/images/bg-desktop-light.jpg 1440w,
-        ../assets/images/BG-MOBILE-LIGHT.jpg   375w
+        ../assets/images/BG-MOBILE-LIGTH.jpg   375w
       "
       src="../assets/images/bg-desktop-light.jpg"
       alt="backround image"
